@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deeapaksarun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Deepak Sarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeapaksarun)](https://github.com/anuraghazra/github-readme-stats)
+[![Deepak Sarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeapaksarun)](https://github.com/deeapaksarun/github-readme-stats)
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
