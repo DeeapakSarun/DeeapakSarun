@@ -1,3 +1,5 @@
+![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F913V&psig=AOvVaw0BsCfM5z3N0fK7tdY6XlAR&ust=1742007183048000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCdps3IiIwDFQAAAAAdAAAAABBg](https://i.gifer.com/913V.gif))
+
 # 💫 About Me:
 🎯 Aspiring Front-End Web Developer passionate about creating responsive and user-friendly applications.<br>💻 Tech Stack: React.js, Next.js, Tailwind CSS, JavaScript, HTML, CSS.<br>🔧 Other Skills: Python, MySQL, PostgreSQL, Docker, Gradle.<br>🚀 Open Source Contributor | Participated in Hacktoberfest.<br>🎓 Graduate Student (CS) at Saint Louis University.
 
