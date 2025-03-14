@@ -1,6 +1,5 @@
-![typing gif](https://github.com/DeeapakSarun/DeeapakSarun/blob/main/913V.gif)
-
 # 💫 About Me:
+![typing gif](https://github.com/DeeapakSarun/DeeapakSarun/blob/main/913V.gif)
 🎯 Aspiring Front-End Web Developer passionate about creating responsive and user-friendly applications.<br>💻 Tech Stack: React.js, Next.js, Tailwind CSS, JavaScript, HTML, CSS.<br>🔧 Other Skills: Python, MySQL, PostgreSQL, Docker, Gradle.<br>🚀 Open Source Contributor | Participated in Hacktoberfest.<br>🎓 Graduate Student (CS) at Saint Louis University.
 
 
