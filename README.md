@@ -1,5 +1,5 @@
 # 💫 About Me:
-<center> <img src="/913V.gif"></img></center>
+<center style={width:"100%"}> <img src="/913V.gif"></img></center>
 
 <br> <br>
 🎯 Aspiring Front-End Web Developer passionate about creating responsive and user-friendly applications.<br>💻 Tech Stack: React.js, Next.js, Tailwind CSS, JavaScript, HTML, CSS.<br>🔧 Other Skills: Python, MySQL, PostgreSQL, Docker, Gradle.<br>🚀 Open Source Contributor | Participated in Hacktoberfest.<br>🎓 Graduate Student (CS) at Saint Louis University.
